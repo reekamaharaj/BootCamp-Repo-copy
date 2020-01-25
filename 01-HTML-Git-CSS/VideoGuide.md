@@ -11,3 +11,8 @@ Learn to make an HTML page!
 
 Learn how to make a basic layout in CSS.
 [Watch the Video!](https://www.youtube.com/watch?v=kMBinXTCrXI)
+
+#### Lesson 1.3 ~ Floats in CSS
+
+Learn how floats and other CSS properties work.
+[Watch the Video!](https://www.youtube.com/watch?v=0lpxKw6E90Y)
