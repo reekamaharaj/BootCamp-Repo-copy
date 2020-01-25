@@ -16,3 +16,8 @@ Learn how to make a basic layout in CSS.
 
 Learn how floats and other CSS properties work.
 [Watch the Video!](https://www.youtube.com/watch?v=0lpxKw6E90Y)
+
+#### Lesson 1.3 ~ Positioning in CSS
+
+Learn about the positioning property in CSS.
+[Watch the Video!](https://www.youtube.com/watch?v=sHfJn0jqBro)
