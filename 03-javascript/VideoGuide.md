@@ -13,3 +13,12 @@ Learn how to use conditional statements to create a custom website experience ba
 Learn the basics of for-looping through arrays in this simple zoo activity.
 [Watch the Video!](https://www.youtube.com/watch?v=zJO9g7S2_Xo)
 
+### Basics of Problem Solving in JavaScript
+
+Learn to Solve Problems Algorithmically in JavaScript. Uses Rock, Paper, Scissors algorithm as an example.
+[Watch the Video!](https://www.youtube.com/watch?v=zRWDJOqeDhg&index=5&list=PLgJ8UgkiorCmEChEWfh7sxPvQwYAx3Kt0)
+
+### Lesson 3.2 - Rock, Paper, Scissors
+
+Learn how to make an interactive game between a user and a computer in the browser - ROCK, PAPER, SCISSORS!
+[Watch the Video!](https://www.youtube.com/watch?v=Tio88WjwFO0)
