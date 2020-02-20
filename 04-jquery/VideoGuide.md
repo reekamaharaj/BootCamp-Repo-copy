@@ -18,3 +18,17 @@ Learn about click events in jQuery!
 Build a click-based lottery generatory using JavaScript and jQuery
 [Watch the Video!](https://www.youtube.com/watch?v=Nh4wxhzePIs)
 
+#### Lesson 4.1 - Lottery Generator
+
+Build a click-based lottery generatory using JavaScript and jQuery
+[Watch the Video!](https://www.youtube.com/watch?v=Nh4wxhzePIs)
+
+#### Lesson 4.2 - Fridge Art
+
+Learn how to use jQuery to create and manipulate HTML elements on the page.
+[Watch the Video!](https://www.youtube.com/watch?v=gC529k3KzmE)
+
+#### Lesson 4.3 - jQuery Calculator
+
+Learn how to use jQuery to create a calculator.
+[Watch the Video!](https://youtu.be/yKE7016Ioxc)
