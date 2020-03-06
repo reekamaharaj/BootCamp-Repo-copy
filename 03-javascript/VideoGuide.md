@@ -1,5 +1,16 @@
 ## Unit 3 (Intro to JavaScript) - Complete video guide
 
+### Last week's homework
+
+#### Homework #2 - My Responsive Portfolio
+
+Learn how to make your portfolio responsive using media queries!
+[Watch the Video!](https://www.youtube.com/watch?v=jF0kIhpX6tk)
+
+#### Homework #2 - My Bootstrap Themed Portfolio
+
+Learn how to make a Bootsrap theme all your own!
+[Watch the Video!](https://youtu.be/C3cMAcsv1Lg)
 
 ### Key activities from the week
 
