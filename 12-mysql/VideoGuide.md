@@ -11,3 +11,8 @@ We dive into MySQL and create our very first database!
 
 We create another eBay like application using Node, Inquirer, and MySQL!
 [Watch the Video!](https://www.youtube.com/watch?v=oWMAhTUHMFw)
+
+#### Lesson 12.3 - Two Databases
+
+We create a search application that works alongside two databases which contain thousands of pieces of data.
+[Watch the Video!](https://www.youtube.com/watch?v=CJDp8W9xIVU)
