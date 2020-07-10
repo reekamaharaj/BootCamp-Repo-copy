@@ -19,8 +19,9 @@ class Form extends Component {
         <input
           type="password"
           placeholder="Password"
+          onChange={}
         />
-        <button>Submit</button>
+        <button onClick={this.handleFormSubmit}>Submit</button>
       </form>
     );
   }
